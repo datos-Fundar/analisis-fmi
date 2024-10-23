@@ -1,0 +1,16 @@
+pid,pregunta,categoria
+q1,Is inflation in {COUNTRY} caused by too much growth in the money supply?,inflation
+q2,Is the public sector deficit the main factor that explains inflation in {COUNTRY}?,inflation
+q3,Is the monetization of the deficit the main factor that explains inflation in {COUNTRY}?,inflation
+q4,Is it correct to affirm that inflation in {COUNTRY} is a multicausal phenomenon?,inflation
+q5,Is the increase in international prices the main factor that explains inflation in {COUNTRY}?,inflation
+q6,Do restrictions on the flow of financial capital promote the stability and soundness of countries' economies?,captial_control
+q7,Do capital flow management measures hinder economic growth?,captial_control
+q8,Do you think that the distribution of income in {COUNTRY} should be more equal?,income_distribution
+q9,Is redistribution of income a legitimate role for the government in {COUNTRY}?,income_distribution
+qA,"Within the framework of a fiscal consolidation program, should the government in {COUNTRY} prioritize social spending?",social_policies
+qB,"Within the framework of a fiscal consolidation program, should the government in {COUNTRY} prioritize not increasing taxes that affect the most vulnerable sectors?",social_policies
+qC,Do you think social spending plays a critical role in promoting inclusive growth and protecting vulnerable groups?,social_policies
+qD,Can you identify the most important social assistance program in {COUNTRY}?,knowledge_depth
+qE,What are the most significant problems that vulnerable groups are currently facing in {COUNTRY}?,knowledge_depth
+qF,What are the most significant problems that women are currently facing in {COUNTRY}?,knowledge_depth
