@@ -1,0 +1,11 @@
+qid,pregunta,etiqueta
+q0,Is inflation in Argentina caused by too much growth in the money supply?,inflacion
+q1,Do capital flow management measures hinder economic growth?,control_capitales
+q2,Do you think that the distribution of income in Argentina should be more equal?,distribucion_ingreso
+q3,Is redistribution of income a legitimate role for the government in Argentina?,distribucion_ingreso
+q4,"Within the framework of a fiscal consolidation program, should the government in Argentina prioritize social spending?",gasto_social
+q5,"Within the framework of a fiscal consolidation program, should the government in Argentina prioritize not increasing taxes that affect the most vulnerable sectors?",gasto_social
+q6,Do you think social spending plays a critical role in promoting inclusive growth and protecting vulnerable groups?,gasto_social
+q7,Can you identify the most important welfare program in Argentina?,gasto_social_conocimiento
+q8,What are the most significant problems that vulnerable groups are currently facing in Argentina?,gasto_social_conocimiento
+q9,What are the most significant problems that women are currently facing in Argentina?,gasto_social_conocimiento
