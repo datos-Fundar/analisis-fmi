@@ -1,6 +1,7 @@
 # Usage:
 # python vectorize_documents.py -t ARG UKR -p ./persist -h multiprocess
 
+import chromadb.errors
 from tqdm.contrib.concurrent import process_map
 from langchain_core.documents import Document
 from glob import glob
@@ -118,7 +119,7 @@ def main(target: str | list[str],
         try: 
             client.get_collection(collection_name)
             client.delete_collection(collection_name)
-        except ValueError:
+        except (ValueError, chromadb.errors.InvalidCollectionException):
             pass
 
         client.create_collection(collection_name, 
