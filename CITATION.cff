@@ -1,38 +1,46 @@
-/*
-Este es el archivo de citado del proyecto.
-Por favor rellenarlo con los datos correspondientes y borrar los comentarios.
-Para campos que no estén presentes en ésta plantilla de ejemplo, ver la
-documentación completa del formato:
-https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
-*/
-
 cff-version: 1.2.0
 message: "Si usás este repositorio, por favor citalo usando estos datos."
 license: CC-BY-NC-SA-4.0
 type: dataset
-date-released: "YYYY-MM-DD"
-title: "Dolor sit amet"
+date-released: "2025-08-04"
+title: "Análisis de la Evolución de las Posiciones del FMI en Argentina: un Enfoque Basado en Grandes Modelos de Lenguaje"
 abstract: >-
-  Por favor cambiar este texto. Acá va una descripción
-  del artículo y/o de los datos que contiene el repo.
+  En este trabajo examinamos la evolución de la postura del Fondo
+  Monetario Internacional (FMI) frente a la Argentina a través de un análisis de
+  los documentos de los programas de este organismo con el país, que abarcan
+  desde el año 2000 hasta diciembre de 2024. La exploración de más de 3000
+  páginas de texto se realizó mediante un modelo de lenguaje
 
-repository-code: "https://github.com/datos-Fundar/dolorsitamet"
-url: "https://fund.ar/dolorsitamet"
+repository-code: "https://github.com/datos-Fundar/analisis-fmi"
+url: "https://github.com/datos-Fundar/analisis-fmi"
 
-identifiers:
-  - description: "Breve descripción del proyecto"
-    type: doi
-    value: 10.5281/zenodo.123456  // REEMPLAZAR ESTO CON EL DOI CORRESPONDIENTE Y CAMBIARLO EN EL README
 authors:
-  - name: "Fundar"
-    country: AR
-    city: "Buenos Aires"
-    location: "Buenos Aires"
-    region: "Buenos Aires"
-    website: "https://fund.ar/"
-  // A partir de acá, agregar los datos de lxs autores
-  - given-names: "Lorem"
-    family-names: "Ipsum"
+  - given-names: "Joan I."
+    family-names: "Gonzalez Quiroga"
+    affiliation:
+      - "Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales. Departamento de Computación. Buenos Aires, Argentina."
+      - "FUNDAR, Buenos Aires, Argentina."
+    email: "jgquiroga@dc.uba.ar"
+
+  - given-names: "Lucía M."
+    family-names: "Cappelletti"
     affiliation: "Fundar"
-    email: lipsum@fund.ar
+    email: "lcappelletti@fund.ar"
+
+  - given-names: "Alejandro"
+    family-names: "Avenburg"
+    affiliation: "Fundar"
+    email: "aavenburg@fund.ar"
+
+  - given-names: "Tomás"
+    family-names: "Canosa"
+    affiliation: "Fundar"
+    email: "tcanosa@fund.ar"
+
+  - given-names: "Emiliano"
+    family-names: "Libman"
+    affiliation:
+      - "Fundar"
+      - "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET). Buenos Aires, Argentina."
+    email: "elibman@fund.ar"
     
