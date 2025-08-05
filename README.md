@@ -1,6 +1,9 @@
 # ¿Qué dice el FMI sobre los sectores vulnerables de la Argentina?
 ### Un estudio de sus reportes hecho con inteligencia artificial
 
+<img width="1920" height="1080" alt="fmi" src="https://github.com/user-attachments/assets/d4700195-54a0-40f3-b535-f6ca1e9504d7" />
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ---
 <div>&nbsp;</div>
 <div>&nbsp;</div>
