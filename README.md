@@ -20,6 +20,13 @@ year = {2025}
 }
 ```
 
+En este trabajo examinamos la evolución de la postura del Fondo Monetario Internacional (FMI) frente a la Argentina a través de un análisis de los documentos de los programas de este organismo con el país, que abarcan desde el año 2000 hasta diciembre de 2024. La exploración de más de 3000 páginas de texto se realizó mediante un modelo de lenguaje (LLM). Analizamos los cambios en la cobertura temática de los documentos del organismo, su posicionamiento frente a diversos temas de la política económica argentina (control de capitales, inflación, distribución del ingreso y gasto social) y la profundidad del conocimiento sobre los principales programas sociales y la situación de los grupos más vulnerables en el país.
+
+Utilizamos minería de textos para segmentar y vectorizar documentos. Mediante generación aumentada (RAG), extraemos y comparamos elementos temáticos a lo largo de distintos períodos gubernamentales. Codificamos categóricamente las respuestas del LLM a un conjunto de preguntas para identificar cambios en los niveles de cobertura temática y posturas del organismo frente a los retos económicos y sociales del país. Los resultados muestran una evolución del Fondo hacia posiciones más favorables a la consolidación fiscal, con preocupación por el gasto social.
+
+Este trabajo deriva de la colaboración entre especialistas en computación, economía y ciencia política. Su principal aporte es un flujo semi-automatizado, basado en datos, que permite analizar cambios en los enfoques de políticas analizando las publicaciones que realiza una organización a lo largo del tiempo.
+
+
 ---
 <div>&nbsp;</div>
 <div>&nbsp;</div>
