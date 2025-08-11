@@ -7,6 +7,18 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+En este trabajo examinamos la evolución de la postura del Fondo Monetario Internacional (FMI) frente a la Argentina a través de un análisis de los documentos de los programas de este organismo con el país, que abarcan desde el año 2000 hasta diciembre de 2024. La exploración de más de 3000 páginas de texto se realizó mediante un modelo de lenguaje (LLM). Analizamos los cambios en la cobertura temática de los documentos del organismo, su posicionamiento frente a diversos temas de la política económica argentina (control de capitales, inflación, distribución del ingreso y gasto social) y la profundidad del conocimiento sobre los principales programas sociales y la situación de los grupos más vulnerables en el país.
+
+Utilizamos minería de textos para segmentar y vectorizar documentos. Mediante generación aumentada (RAG), extraemos y comparamos elementos temáticos a lo largo de distintos períodos gubernamentales. Codificamos categóricamente las respuestas del LLM a un conjunto de preguntas para identificar cambios en los niveles de cobertura temática y posturas del organismo frente a los retos económicos y sociales del país. Los resultados muestran una evolución del Fondo hacia posiciones más favorables a la consolidación fiscal, con preocupación por el gasto social.
+
+Este trabajo deriva de la colaboración entre especialistas en computación, economía y ciencia política. Su principal aporte es un flujo semi-automatizado, basado en datos, que permite analizar cambios en los enfoques de políticas analizando las publicaciones que realiza una organización a lo largo del tiempo.
+
+La metdología de este trabajo fue aceptada como parte de las Jornadas Argentinas de Informática (54JAIIO), y se encuentran disponibles los siguientes recursos:
+- La publicación [(link)](./publicaciones/gonzalez_et_al_jaiio.pdf)
+- El Anexo [(link)](./publicaciones/gonzalez_et_al_jaiio_anexo.pdf)
+- Las diapositivas de la presentación [(link)](./publicaciones/slides_gonzalez_et_al_jaiio.pdf)
+
+Adicionalmente, para un análisis de los resultados, también está disponible la [nota de opinión](https://fund.ar/publicacion/que-dice-el-fmi-sobre-los-sectores-vulnerables-de-la-argentina-un-estudio-de-sus-reportes-hecho-con-ia/).
 
 ### Cita
 
@@ -20,14 +32,11 @@ year = {2025}
 }
 ```
 
-En este trabajo examinamos la evolución de la postura del Fondo Monetario Internacional (FMI) frente a la Argentina a través de un análisis de los documentos de los programas de este organismo con el país, que abarcan desde el año 2000 hasta diciembre de 2024. La exploración de más de 3000 páginas de texto se realizó mediante un modelo de lenguaje (LLM). Analizamos los cambios en la cobertura temática de los documentos del organismo, su posicionamiento frente a diversos temas de la política económica argentina (control de capitales, inflación, distribución del ingreso y gasto social) y la profundidad del conocimiento sobre los principales programas sociales y la situación de los grupos más vulnerables en el país.
-
-Utilizamos minería de textos para segmentar y vectorizar documentos. Mediante generación aumentada (RAG), extraemos y comparamos elementos temáticos a lo largo de distintos períodos gubernamentales. Codificamos categóricamente las respuestas del LLM a un conjunto de preguntas para identificar cambios en los niveles de cobertura temática y posturas del organismo frente a los retos económicos y sociales del país. Los resultados muestran una evolución del Fondo hacia posiciones más favorables a la consolidación fiscal, con preocupación por el gasto social.
-
-Este trabajo deriva de la colaboración entre especialistas en computación, economía y ciencia política. Su principal aporte es un flujo semi-automatizado, basado en datos, que permite analizar cambios en los enfoques de políticas analizando las publicaciones que realiza una organización a lo largo del tiempo.
-
-
 ---
+
+**Este documento es parte de la serie [_Inteligencia Artificial_](https://fund.ar/serie/inteligencia-artificial)**
+
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>
